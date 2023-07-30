@@ -1,2 +1,2 @@
-# cryptex-master
+#cryptochain
 made using html,css and javascript
